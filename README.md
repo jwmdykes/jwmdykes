@@ -1,6 +1,6 @@
 ## Thanks for visiting my profile 👋
 
-Hi, my name is John and I'm a mathematician/cryptographer with an interest in web development.
+Hi, my name is John and I'm a mathematician/cryptographer with an interest in web development, particularly Next.js, React, tailwind, and express.js.
 
 #### Current interests
 
